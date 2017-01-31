@@ -1,7 +1,7 @@
 ################################################################################
 ##
 ## <PROJ> Functional Programming with R/Rcpp
-## <FILE> fp_hp.R
+## <FILE> fp_main.R
 ## <AUTH> Benjamin Skinner
 ## <INIT> 5 January 2017
 ##
